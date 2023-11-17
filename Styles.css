@@ -181,6 +181,51 @@ span {
     align-items: center;
 }
 
+/* **************página de contato****************** */
+
+#contato {
+    width: 100%;
+    margin: 70px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content-contato {
+    width: 100%;
+    height: 400px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.contato-1 {
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Kdam Thmor Pro', sans-serif; 
+}
+
+.contato-2 {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.content-button {
+    width: 100%;
+    height: 400px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-description {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
 @media(max-width: 768px){
    
     .footer-navigation {
